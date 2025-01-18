@@ -2,6 +2,10 @@
 
 ## 🚀 About Me
 I'm a passionate software engineer who loves building things with code.
+- 🔭 I’m currently working on [ShopNest](https://accommodation-xi.vercel.app/), a short-stay accommodation website.
+- 🌱 I’m currently learning Golang on Exercism
+- 👯 I’m trying to get started with contributing to open-source projects
+- 😄 Pronouns: She/Her
 
 ## 🛠 Skills
 - **Languages:** Python, JavaScript, TypeScript, Golang
@@ -17,8 +21,3 @@ I'm a passionate software engineer who loves building things with code.
 ## 🌐 Find Me Online
 - [LinkedIn](https://linkedin.com/in/chinomnso-chinedum)
 
-
-- 🔭 I’m currently working on [ShopNest](https://accommodation-xi.vercel.app/), a short-stay accommodation website.
-- 🌱 I’m currently learning Golang on Exercism
-- 👯 I’m trying to get started with contributing to open-source projects
-- 😄 Pronouns: She/Her
