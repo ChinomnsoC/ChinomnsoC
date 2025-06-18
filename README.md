@@ -16,7 +16,8 @@ I'm a passionate software engineer who loves building things with code.
 
 ## 📈 GitHub Stats
 
-![Chinomnso's GitHub Statsss](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinomnsoC&hide_progress=true)
+![Chinomnso's GitHub Statsss](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinomnsoC&hide_progress=true&hide=Jupyter%20Notebook)
+
 
 
 ![Chinomnso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChinomnsoC&show_icons=true&theme=radical)
