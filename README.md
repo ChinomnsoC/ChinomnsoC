@@ -2,8 +2,9 @@
 
 ## 🚀 About Me
 I'm a passionate software engineer who loves building things with code.
+- 👩🏾‍🎓 I am currently enrolled in courses at Colorado State University (Java and Operating Systems) and Arizona State University (Computer Networking) to meet the prerequisites for an MSc in Computer Science.
 - 🔭 I’m currently working on [ShopNest](https://accommodation-xi.vercel.app/), a short-stay accommodation website.
-- 🌱 I’m currently learning Golang on Exercism
+- 🌱 I’m currently learning Golang on Exercism and Educative dot io
 - 👯 I’m trying to get started with contributing to open-source projects
 - 😄 Pronouns: She/Her
 
