@@ -9,7 +9,7 @@ I'm a passionate software engineer who loves building things with code.
 - 😄 Pronouns: She/Her
 
 ## 🛠 Skills
-- **Languages:** Python, JavaScript, TypeScript, Golang
+- **Languages:** Python, Java, TypeScript, Golang
 - **Tools:** Git, Docker
 - **Frameworks:** React, Django, NextJS
 - **Cloud:** AWS
@@ -17,7 +17,7 @@ I'm a passionate software engineer who loves building things with code.
 
 ## 📈 GitHub Stats
 
-![Chinomnso's GitHub Statsss](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinomnsoC&hide_progress=true&hide=Jupyter%20Notebook)
+![Chinomnso's GitHub Statsss](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinomnsoC&hide=Jupyter%20Notebook)
 
 
 
